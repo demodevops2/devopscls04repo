@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "git testing"
+echo "chk webhook job"
